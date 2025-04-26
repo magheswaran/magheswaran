@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I'm Magheswaran K<br>🚀 MERN Stack Developer passionate about building fast, scalable web apps<br>💻 Skilled in JavaScript, React.js, Node.js, Express.js, MongoDB<br>🎨 Love blending design (Tailwind, Bootstrap) with powerful backend tech<br>🔥 Focused on creating real business impact through tech solutions<br>🛠 Always learning, improving, and taking on new challenges<br>🤝 Open for collaborations, freelance projects, and networking<br>📫 Connect: Magheswaran.dev@gmail.co
+👋 Hey, I'm Magheswaran K<br>🚀 MERN Stack Developer passionate about building fast, scalable web apps<br>💻 Skilled in JavaScript, React.js, Node.js, Express.js, MongoDB<br>🎨 Love blending design (Tailwind, Bootstrap) with powerful backend tech<br>🔥 Focused on creating real business impact through tech solutions<br>🛠 Always learning, improving, and taking on new challenges<br>🤝 Open for collaborations, freelance projects, and networking<br>📫 Connect: Magheswaran.dev@gmail.com
 
 
 ## 🌐 Socials:
