@@ -19,10 +19,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=magheswaran&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magheswaran&repo=simpleEcommerce&theme=onedark)](https://github.com/magheswaran/simpleEcommerce)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=magheswaran&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![Visitor Count](https://visitcount.itsvg.in/api?id=magheswaran&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
