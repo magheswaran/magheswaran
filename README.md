@@ -22,9 +22,5 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magheswaran&repo=simpleEcommerce&theme=onedark)](https://github.com/magheswaran/simpleEcommerce)
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=magheswaran&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
