@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=magheswaran&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=magheswaran&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
