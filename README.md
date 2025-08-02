@@ -18,9 +18,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=magheswaran&repo=simpleEcommerce&theme=onedark)](https://github.com/magheswaran/simpleEcommerce)
 
 
 
